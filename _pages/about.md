@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affiliations. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate in the Bioastronautics Lab at CU Boulder
 
 profile:
   align: right
@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [scholar](https://scholar.google.com/citations?user=SIgYus9q4TIC&hl=en&oi=ao) You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Human exploration is in the midst of significant advance, necessitating new technologies for enabling pioneers and passengers on humanity’s next endeavors. Essential to our success, these technologies must mitigate sensorimotor risks affecting human performance, health, and safety in the often-unforgiving domain of outer space. I envision positioning MIT as the nexus for advancing neuroscience technologies motivated by spaceflight, ultimately benefiting astronauts, pilots, and individuals here on Earth. To realize this vision, my research examines three key thrusts, each uniting pioneering neuroscience research with novel spaceflight technologies: 1.) developing and quantifying models of human sensory central processing 2.) developing and evaluating spaceflight-relevant assessments of sensorimotor impairment, and 3.) advancing pilot and astronaut pre-flight training to achieve improved operational performance and safety. This pursuit is underpinned by a research program grounded in neuroscience, human factors, and aerospace engineering, driven by an enduring passion for furthering human exploration. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can stay up to date on my publications via my [Google Scholar](https://scholar.google.com/citations?user=SIgYus9q4TIC&hl=en&oi=ao), and you can reach me at the email linked below. 
