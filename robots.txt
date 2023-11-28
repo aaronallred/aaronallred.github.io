@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aaronallred.github.io/sitemap.xml
