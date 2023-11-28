@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /exploration/
-title: exploration
+permalink: /books/
+title: book reviews
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 8
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
