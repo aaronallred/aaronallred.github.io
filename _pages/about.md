@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: [scholar](https://scholar.google.com/citations?user=SIgYus9q4TIC&hl=en&oi=ao). Address. Contacts. Moto. Etc.
 
 profile:
   align: right
