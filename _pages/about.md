@@ -22,7 +22,7 @@ Captivated by the expanse of space, I developed a lifelong passion for human exp
 
 Human exploration is in the midst of significant advance, necessitating new technologies for enabling pioneers and passengers on humanity’s next endeavors. Essential to our success, these technologies must mitigate sensorimotor risks affecting human performance, health, and safety in the often-unforgiving domain of outer space. 
 
-To realize these lofty goals, I perform research in the field of [bioastronautics](/bioastro/). My research experiences have given me the tools to formulate my own research program, which is grounded in aerospace engineering, neuroscience, and human factors.  I aim to advance neuroscience technologies motivated by spaceflight, ultimately benefiting astronauts, pilots, and individuals here on Earth. To realize this vision, my research examines three key thrusts, each uniting pioneering neuroscience research with novel spaceflight technologies: 
+To realize these lofty goals, I perform research in the field of [bioastronautics](/bioastro/). My research experiences have given me the tools to formulate my own research program, which is grounded in aerospace engineering, neuroscience, and human factors.  I aim to advance neuroscience technologies motivated by spaceflight, ultimately benefiting astronauts, pilots, and individuals here on Earth. To realize this vision, my research examines three key thrusts, each uniting pioneering neuroscience research with novel spaceflight technologies:  
 
 1. Developing and quantifying models of human sensory central processing 
 
