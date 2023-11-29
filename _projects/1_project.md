@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: Modeling Memory of Past Sensorimotor States
+img: assets/img/Memory.png
 importance: 1
-category: work
+category: modeling perception
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

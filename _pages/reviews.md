@@ -1,10 +1,10 @@
 ---
-layout: profiles
-permalink: /bioastro/
-title: bioastronautics research
-description: The growing field of 'bioastronautics' within aerospace engineering sciences
-nav: true
-nav_order: 1
+layout: page
+permalink: /reviews/
+title: reviews
+description: 
+nav: false
+nav_order: 6
 
 profiles:
   - align: right

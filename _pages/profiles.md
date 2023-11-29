@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /exploration/
-title: exploration
+%title: exploration
 description: members of the lab or group
 nav: true
 nav_order: 7

@@ -1,13 +1,19 @@
 ---
 layout: page
-%title: submenus
+title: other
 nav: true
 nav_order: 7
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: structures
+      permalink: /structures/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: activities
+      permalink: /activities/
+    - title: divider
+    - title: teaching
+      permalink: /teaching/
+    - title: divider
+    - title: DEI
+      permalink: /DEI/
 ---

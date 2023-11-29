@@ -1,0 +1,3 @@
+[Sunlit Man]() by Brandon Sanderson.
+
+I found this novel to be one of Sanderson's best, the culmination of plot devices and storytelling that has been in the works for almost two decades of experimentation through his other novels. Here a husk of a man and his spirit find themselves on a nonstop action journey where the action itself feels earned- a clever plot device that demonstrates the hardwired-ness of human survival. Ultimately, this is a story of the importance of connection, achieving healing and triumph for the titular character.
