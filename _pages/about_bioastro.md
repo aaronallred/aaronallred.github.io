@@ -4,7 +4,7 @@ MIT's late Larry Young describes bioastronautics in [the bioastronautics handboo
 
 As my friend and colleague Annika Rollock puts it in her [blog](https://www.annikarollock.com/blog/so-you-want-to-learn-about-bioastronautics), bioastronautics broadly encompasses everything from the physiology of the inner ear, cockpit and display design, materials for spacesuits, the effects of radiation on various cells and hardware, components of life support systems, and the processes for defining requirements and readying technologies. The umbrella of bioastronautics is propped open to combat the hazards of the space environment, which pose risks and impedances to human exploration. So what specifically about the space environment must we understand as engineers, scientists, and explorers?
 
-[The five primary hazards of spaceflight](https://www.nature.com/articles/s41526-023-00275-2)
+[The five primary hazards of spaceflight](https://www.nasa.gov/hrp/hazards/#:~:text=About%20the%20Five%20Hazards&text=These%20include%20space%20radiation%2C%20isolation,and%20closed%20or%20hostile%20environments.) and [enabling future missions](https://www.nature.com/articles/s41526-023-00275-2)
 
 1. Radiation Exposure
 

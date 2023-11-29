@@ -12,3 +12,10 @@ My life experiences have provisioned me with a wealth of perspective and underst
 While assembling a diverse cohort is an initial stride towards a richer academic community, the cultivation of an inclusive culture, largely influenced by leadership, is equally imperative. Inclusivity means embracing the sources of individuals’ differences. In practice, all voices are not only heard but respected and addressed.  This approach facilitates the open exchange of ideas and perspectives, thereby empowering everyone to contribute meaningfully. Furthermore, fostering inclusivity requires advocating for others.
 
 I firmly believe that instructors play a leadership role in the academic community and bear the responsibility of dismantling barriers to diversity and inclusion while using equity as a strategic tool to improve the status of disadvantaged groups. Subsequent to these principles, a sense of belonging in various academic settings (whether that be a class, project group, research lab, or in the break room) transforms an academic community into a comfortable environment and a home away from home. By actively selecting diverse applicants, providing an equitable and inclusive learning and research environment, and fostering community through belonging, I aim to make a positive impact by embodying the professional and personal values that I have obtained and will continue to refine for the duration of my academic career.
+
+#<b> resources </b>
+
+#[factors influencing participation of underrepresented students in STEM](https://link.springer.com/article/10.1186/s40594-020-00219-2)
+
+#[NSF summary on diversity and STEM: women, minorities, and persons with disabilities](https://ncses.nsf.gov/pubs/nsf23315/report)
+

@@ -18,4 +18,6 @@ profiles:
     image: NeuroLogoAltSmall.png
     content: bioastro_neuro.md
     image_circular: false # crops the image to make it circular
+    more_info: >
+      Art for my personal research and lab
 ---
