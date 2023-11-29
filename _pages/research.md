@@ -35,7 +35,7 @@ In addition, my research has empirically assessed motion sickness countermeasure
     <div class="col-sm-5 mt-4 mt-md-0">
         {% include figure.html path="assets/img/MSModel.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-4 mt-md-0">
+    <div class="col-sm-6 mt-4 mt-md-0">
         {% include figure.html path="assets/img/MSEmpirical.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -44,7 +44,10 @@ In addition, my research has empirically assessed motion sickness countermeasure
 An exciting area of research that gained renewed traction in recent years involves galvanic vestibular stimulation (GVS). GVS provides a means of stimulating the vestibular system non-invasively, through electrodes placed on the skin. I am exploring using GVS as a means for improving and modifying perception of self-motion, critical for navigating in the air and space domains but also for individuals with vestibular impairments here on Earth. Applications include improving detection recognition thresholds, enhancing simulator immersion, providing a post spaceflight sensorimotor analog, and countering motion sickness. Before we can unlock these potential use-cases of GVS. we must first develop models of how GVS influences perceptions of self-motion and self-orientation, particularly in the presence of provocative physical motions that expose the inadequacies of the vestibular organs and vestibular sensitive neural pathways.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-2 mt-md-0">
+    <div class="col-sm-3 mt-2 mt-md-0">
+        {% include figure.html path="assets/img/GVSbrain.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm-9 mt-2 mt-md-0">
         {% include figure.html path="assets/img/GVS.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>  
