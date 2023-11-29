@@ -30,6 +30,6 @@ To realize these lofty goals, I perform research in the field of [bioastronautic
 
 3. Advancing pilot and astronaut pre-flight training to achieve improved performance and safety
 
-You can stay up to date on my publications via my [Google Scholar](https://scholar.google.com/citations?user=SIgYus9q4TIC&hl=en&oi=ao), and you can reach me at the email linked below if you are interested in collaborating on related areas of research!
+You can stay up to date on my publications [here](/publications/) or on my [Google Scholar](https://scholar.google.com/citations?user=SIgYus9q4TIC&hl=en&oi=ao), and you can reach me at the email linked below if you are interested in collaborating on related areas of research!
 
 Outside of my work, I enjoy trail running, hiking, reading (lately mostly Sanderson), and traveling. 
