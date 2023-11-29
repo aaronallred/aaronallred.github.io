@@ -52,7 +52,7 @@ My dissertation work is in developing "A Galvanic Vestibular Stimulation-Based C
 ---
 <b> NASA VTEs </b>
 
-Alongside my dissertation work, my professional journey has involved working with the neuroscience laboratory at NASA Johnson Space Center where I have spent time developing countermeasures for sensorimotor impairment in astronauts as well as assessments to improve crew health and performance. This work has led to working first-hand with astronauts acquainted with the side-effects of spaceflight. 
+Alongside my dissertation work, my professional journey has involved working with the [neuroscience laboratory](https://www.nasa.gov/directorates/esdmd/hhp/neuroscience/) at NASA Johnson Space Center where I have spent time developing countermeasures for sensorimotor impairment in astronauts as well as assessments to improve crew health and performance. This work has led to working first-hand with astronauts acquainted with the side-effects of spaceflight. 
 
 
 <div class="row justify-content-sm-center">
