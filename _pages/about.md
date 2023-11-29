@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Captivated at a young age by the expanse of space, I developed a lifelong passion for human exploration that has grown deeper with my furthered education, industry work, and personal experiences. Today, this passion has manifested as a desire to establish new capabilities and access to human exploration through research and to teach the next generation of aerospace students through a teaching program grounded in providing equitable access to learning.
+Captivated by the expanse of space, I developed a lifelong passion for human exploration that has grown deeper with my furthered education, industry work, and personal experiences. Today, this passion has manifested as a desire to establish new capabilities and access to human exploration through research and to teach the next generation of aerospace students through a teaching program grounded in providing equitable access to learning.
 
 ---
 <b>Overview<b>
