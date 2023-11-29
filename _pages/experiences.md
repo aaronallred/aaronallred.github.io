@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /experiences/
 title: experiences
-description: The growing field of 'bioastronautics' within aerospace engineering sciences
+description: my professional experiences within aerospace engineering 
 nav: false
 nav_order: 5
 
