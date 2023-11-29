@@ -9,7 +9,10 @@ display_categories: [modeling perception, motion sickness, galvanic vestibular s
 horizontal: false
 ---
 ---
-One pillar of my research focuses on understanding sensory processing. In part, I have focused on improving mathematical models of sensory processing during periods of central adaptation, necessary for modeling central perceptual function following gravity transitions. Such models seek to quantify three aspect about humans' internal representations of self motion and self orientation by predicting how a person will perceive: In what way am I moving/oriented? Which way am I moving/oriented? How much am I moving/have I moved? In other words, we seek to model perceptions of <b>motion type, direction, and magnitude</b>. Designing and performing human participant experiments that empirical assess these aspects of self-motion perception informs model architectures and parameters to better predict a variety of outcomes such as: misperceptions in altered gravity environments, manual control during landing, locomotion performance when stepping out into a new environment for the first time, and even the development of motion sickness symptoms.
+
+<b> sensory processing and perceptions of motion</b>
+
+One pillar of my research focuses on understanding sensory processing. In part, I have worked to improve mathematical models of sensory processing during periods of central adaptation, necessary for modeling central perceptual function following gravity transitions. Such models seek to quantify three aspect about humans' internal representations of self motion and self orientation by predicting how a person will perceive: In what way am I moving/oriented? Which way am I moving/oriented? How much am I moving/have I moved? In other words, we seek to model perceptions of <b>motion type, direction, and magnitude</b>. Designing and performing human participant experiments that empirical assess these aspects of self-motion perception informs model architectures and parameters to better predict a variety of outcomes such as: misperceptions in altered gravity environments, manual control during landing, locomotion performance when stepping out into a new environment for the first time, and even the development of motion sickness symptoms.
 
 You can access my recent work examining the roll of [memory in learned sensorimotor states](https://www.frontiersin.org/articles/10.3389/fncir.2023.1190582/full). This work involved collaborations with Vika Kravets, who has independently designed and conducted a follow-up experiment to empirically examine our theoretical contributions during 1g-1.5g transitions using a centrifuge paradigm.
 
@@ -25,6 +28,8 @@ One aspect of self-motion perception is detection recognition thresholds. Here, 
 </div>
 
 ---
+<b> motion sickness </b>
+
 Motion sickness, thought to be a consequence of neurovestibular processing, pervades all modes of human transportation (e.g., automobiles, boats, trains, airplanes, spaceflight). Most astronauts experience motion sickness upon transitioning to a microgravity environment from Earth and upon returning to Earth following extended exposure to microgravity. 
 
 At CU, I constructed a [predictive model of motion sickness resulting from arbitrary motion paradigms and changing gravity environments](https://rdcu.be/djNx9). 
@@ -41,6 +46,8 @@ In addition, my research has empirically assessed motion sickness countermeasure
 </div>
 
 ---
+<b> galvanic vestibular stimulation's influence on perception </b>
+
 An exciting area of research that gained renewed traction in recent years involves galvanic vestibular stimulation (GVS). GVS provides a means of stimulating the vestibular system non-invasively, through electrodes placed on the skin. I am exploring using GVS as a means for improving and modifying perception of self-motion, critical for navigating in the air and space domains but also for individuals with vestibular impairments here on Earth. Applications include improving detection recognition thresholds, enhancing simulator immersion, providing a post spaceflight sensorimotor analog, and countering motion sickness. Before we can unlock these potential use-cases of GVS. we must first develop models of how GVS influences perceptions of self-motion and self-orientation, particularly in the presence of provocative physical motions that expose the inadequacies of the vestibular organs and vestibular sensitive neural pathways.
 
 <div class="row justify-content-sm-center">
@@ -52,9 +59,12 @@ An exciting area of research that gained renewed traction in recent years involv
     </div>
 </div>  
 
-
-
 ---
+<b> spaceflight assessments of sensorimotor impairment </b>
+
 As part of my [NASA Space Technology fellowship (NSTGRO)](https://www.nasa.gov/nasa-space-technology-graduate-research-opportunities-nstgro/), I have collaborated with the neuroscience lab at NASA Johnson Space Center where I developed a performance-based post-spaceflight sensorimotor impairment analog. This impairment analog was verified from astronauts’ qualitative feedback and functional performance during a set of sensorimotor standard measures, designed to manipulate somatosensory and vestibular sensory feedback, and it was used as a means of evaluating the sensitivity of new assessments. Working with collaborators at the University of Michigan, I conducted an experiment using a novel assessment, constructed for confined spaces, that identifies vestibular-mediated impairments in individuals. This research was recently accepted and is awaiting publication.
+
+
+<b> galvanic vestibular stimulation for reducing spatial disorientation mishaps </b>
 
 Additionally, I have collaborated with the NASA and the US Navy to outline research gaps and directions that will enable using GVS to reduce the occurrence of vestibular-related mishaps during pilot operations. When operating aircraft, spatial disorientation (SD) represents a failure to correctly perceive one’s self-orientation and self-motion and thus a failure to perceive the orientation and motion of the piloted vehicle. SD remains the number one source of Class A mishaps in the US Navy, characterized by loss of life or at least $2.5M in damage. While this research paper is in review, this effort is already driving a host of research efforts and has the potential to improve outcomes for pilots through advanced pre-flight SD training using GVS.
