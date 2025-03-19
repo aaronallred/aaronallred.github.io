@@ -11,14 +11,14 @@ horizontal: false
 ---
 <b> technological solutions for motion sickness</b>
 
-Hippocrates wrote that 'sailing on the sea proves that motion disorders the body.' Today, our understanding of motion sickness has grown to meet the demands of future of modes of transportation and exploration. Per sensory conflict theory today, vestibular sensory information has been proposed to drive motion sickness given deviations from central expectations. However, the consistency of motion sickness with quantitative predictions of manipulated vestibular sensory conflict remains untested. In this project, we evaluated motion sickness symptoms within participants exposed to galvanic vestibular stimulation (GVS) designed using modern engineering tools to manipulate vestibular sensory conflict during passive physical translations. Using a computational methodology, equal and opposite GVS waveforms were designed to reduce (Beneficial) or increase (Detrimental) motion sickness while controlling all other sources of sensory information and central confounds. Beneficial GVS produced a 26% motion sickness reduction, and Detrimental GVS produced a 56% increase, demonstrating the causal role of vestibular information in human motion sickness. Validating our predictions, this finding supports the theory that vestibular sensory conflict mediates motion sickness and facilitates new methods and countermeasures for mitigating motion sickness during transportation and in virtual environments.
+Hippocrates wrote that 'sailing on the sea proves that motion disorders the body.' Today, our understanding of motion sickness has grown to meet the demands of transportation and exploration. Per sensory conflict theory today, vestibular sensory information has been proposed to drive motion sickness given deviations from central expectations. However, the consistency of motion sickness with quantitative predictions of manipulated vestibular sensory conflict remains untested. In this project, we evaluated motion sickness symptoms within participants exposed to galvanic vestibular stimulation (GVS) designed using modern engineering tools to manipulate vestibular sensory conflict during passive physical translations. Using a computational methodology, equal and opposite GVS waveforms were designed to reduce (Beneficial) or increase (Detrimental) motion sickness while controlling all other sources of sensory information and central confounds. Beneficial GVS produced a 26% motion sickness reduction, and Detrimental GVS produced a 56% increase, demonstrating the causal role of vestibular information in human motion sickness. Validating our predictions, this finding supports the theory that vestibular sensory conflict mediates motion sickness and facilitates new methods and countermeasures for mitigating motion sickness during transportation and in virtual environments.
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-2 mt-md-0">
+    <div class="col-sm-5 mt-4 mt-md-0">
         {% include figure.html path="assets/img/GVSMSdesign.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-     <div class="col-sm-9 mt-2 mt-md-0">
+     <div class="col-sm-5 mt-4 mt-md-0">
         {% include figure.html path="assets/img/GVSMSresults.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>  
@@ -42,7 +42,7 @@ One aspect of self-motion perception is detection recognition thresholds. Here, 
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Memory.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/SensoryProcessing.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
