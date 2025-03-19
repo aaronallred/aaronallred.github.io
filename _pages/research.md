@@ -26,7 +26,17 @@ Hippocrates wrote that 'sailing on the sea proves that motion disorders the body
 ---
 <b> team decision-making in ICE</b>
 
+Apart from examining sensorimotor impairments, my reserach examines behavioral health and performance, particular for teams exposed to ICE environments. This includes developing both empirical and computational understandings of how teams of individuals sampling information from their environment, share information amongst one another, and ultimately formulate judgments and make decisions under uncertainty. As a postdoctoral researcher, I have had the opportunity to conceptualize and lead experiments understanding human information processing in ICE across a range of experimental settings of varying ecological validty. In 2025, we are have a number of publications in review within this domain. Notably, we have developed a unique testbed at Mars Desert Research Station to examine these behaviors in naturalistic settings.
 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/MDRSwatch.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm-5 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/MDRSrover.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>  
 
 
 ---
