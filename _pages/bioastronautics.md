@@ -21,7 +21,7 @@ profiles:
     more_info: >
       lab logo
   - align: right
-    image: ResearchThrusts.png
+    image: 
     content: my_research_chart.md
     image_circular: false # crops the image to make it circular
     more_info: >
