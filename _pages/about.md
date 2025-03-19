@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in the Bioastronautics Lab at CU Boulder
+subtitle: Postdoctoral Fellow in the Bioastronautics Lab at CU Boulder
 
 profile:
   align: right
