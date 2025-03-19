@@ -12,11 +12,17 @@ profiles:
     content: about_bioastro.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Astronaut Christina Koch in space
+      astronaut Christina Koch in space
       credit: NASA
   - align: right
     image: NeuroLogoAltSmall.png
     content: bioastro_neuro.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+ - align: center
+    image: ResearchThrusts.png
+    content: my_research_chart.md
     image_circular: false # crops the image to make it circular
     more_info: >
 ---
