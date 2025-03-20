@@ -62,7 +62,7 @@ One aspect of self-motion perception is detection recognition thresholds. Here, 
 
 Motion sickness, thought to be a consequence of neurovestibular processing, pervades all modes of human transportation (e.g., automobiles, boats, trains, airplanes, spaceflight). Most astronauts experience motion sickness upon transitioning to a microgravity environment from Earth and upon returning to Earth following extended exposure to microgravity. 
 
-At CU, I constructed a [predictive model of motion sickness resulting from arbitrary motion paradigms and changing gravity environments](https://rdcu.be/djNx9). 
+At CU, I constructed a [predictive model of motion sickness resulting from arbitrary motion paradigms and changing gravity environments](https://link.springer.com/article/10.1007/s00221-024-06804-z). 
 
 In addition, my research has empirically assessed motion sickness countermeasures for re-entry using gravity transition and sea-state paradigms. These countermeasures were developed using [virtual reality environments](https://link.springer.com/article/10.1007/s00221-023-06715-5), varying levels of postural control and predictive cueing displays.
 
