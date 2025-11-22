@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-22 12:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Just wrapped a second week testing on teams at Mars Desert Research Station (MDRS) with Crew 323! 
