@@ -1,6 +1,5 @@
 ---
 layout: news
-title: Crew 322
 date: 2025-11-15 12:00:00-0400
 inline: false
 related_posts: false
