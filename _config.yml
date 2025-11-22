@@ -123,7 +123,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 collections:
   news:
     defaults:
-      layout: post
+      layout: news
     output: true
     permalink: /news/:path/
   projects:
