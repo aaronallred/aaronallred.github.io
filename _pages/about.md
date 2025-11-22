@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Captivated by the expanse of space, I developed a lifelong passion for human exploration that has grown deeper with my furthered education, industry work, and personal experiences. Today, this passion has manifested as a desire to establish new capabilities and access to human exploration through research and to teach the next generation of aerospace students through a teaching program grounded in providing equitable access to learning. 
 
 ---
-<b>Overview<b>
+**Overview**
 
 uman space exploration is entering an exciting new era, and with it comes the challenge of keeping astronauts healthy, safe, and performing at their best. To meet these challenges, we need new technologies that can reduce sensory, motor, and behavioral risks in the extreme environment of space.
 
