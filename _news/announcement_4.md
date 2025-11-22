@@ -5,4 +5,4 @@ related_posts: false
 inline: true
 ---
 
-Honored to be selected for the **Future Leaders in Aerospace Symposium**, a great opportunity to connect with emerging researchers across the field.
+I gave a talk at the **Future Leaders in Aerospace Symposium**, hosted by Penn State.
