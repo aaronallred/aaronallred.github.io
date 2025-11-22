@@ -20,17 +20,19 @@ Captivated by the expanse of space, I developed a lifelong passion for human exp
 ---
 <b>Overview<b>
 
-Human exploration is in the midst of significant advance, necessitating new technologies for enabling pioneers and passengers on humanity’s next endeavors. Essential to our success, these technologies must mitigate sensorimotor and behavioral risks affecting human performance, health, and safety in the often-unforgiving domain of outer space. 
+uman space exploration is entering an exciting new era, and with it comes the challenge of keeping astronauts healthy, safe, and performing at their best. To meet these challenges, we need new technologies that can reduce sensory, motor, and behavioral risks in the extreme environment of space.
 
-To realize these goals, I perform research in the field of [bioastronautics](/bioastro/). My research experiences have given me the tools to formulate my own research program, which is rests at the interesection of aerospace engineering and neuroscience - pairing engineering and space life science.  My work advances and engineers neuroscience technologies motivated by spaceflight, ultimately benefiting astronauts, pilots, and individuals here on Earth. My research examines four key thrusts, each uniting neuroscience research with spaceflight motivated technologies: 
+I work in the field of [bioastronautics](/bioastro/), where aerospace engineering intersects with human physiology. My goal is to understand how astronauts adapt during spaceflight (particularly in how they process information) and to design engineering tools and technologies that support astronauts and pilots, with applications to everyday people and clincical populations here on Earth.
 
-1. Developing and quantifying models of human sensory central processing 
+My research examines four key thrusts, each uniting neuroscience research with spaceflight motivated technologies: 
 
-2. Developing and evaluating spaceflight-relevant sensorimotor assessments and countermeasures
+1. Formalizing data-informed models of human sensory processing and cognition 
 
-3. Advancing pilot and astronaut training analogs
+2. Developing assessments and countermeasures for sensorimotor impairment
 
-4. Countering behavioral risks and decision-making deficits due to isolated, confined, and extreme (ICE) environmental factors
+3. Creating pre-flight training tools and in-flight systems for pilots and astronauts
+
+4. Designing autonomous agents to counter decision-making deficits in isolated, confined, and extreme (ICE) environments
 
 You can stay up to date on my publications [here](/publications/) or on my [Google Scholar](https://scholar.google.com/citations?user=SIgYus9q4TIC&hl=en&oi=ao), and you can reach me at the email linked below if you are interested in collaborating on related areas of research!
 
