@@ -20,7 +20,7 @@ Captivated by the expanse of space, I developed a lifelong passion for human exp
 ---
 **Overview**
 
-uman space exploration is entering an exciting new era, and with it comes the challenge of keeping astronauts healthy, safe, and performing at their best. To meet these challenges, we need new technologies that can reduce sensory, motor, and behavioral risks in the extreme environment of space.
+Human space exploration is entering an exciting new era, and with it comes the challenge of keeping astronauts healthy, safe, and performing at their best. To meet these challenges, we need new technologies that can reduce sensory, motor, and behavioral risks in the extreme environment of space.
 
 I work in the field of [bioastronautics](/bioastro/), where aerospace engineering intersects with human physiology. My goal is to understand how astronauts adapt during spaceflight (particularly in how they process information) and to design engineering tools and technologies that support astronauts and pilots, with applications to everyday people and clincical populations here on Earth.
 

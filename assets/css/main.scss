@@ -18,3 +18,29 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+// Force news to stay visible
+.news {
+  opacity: 1 !important;
+  animation: none !important;
+  transition: none !important;
+  
+  .table-responsive {
+    opacity: 1 !important;
+    animation: none !important;
+    transition: none !important;
+  }
+  
+  table {
+    opacity: 1 !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+// Override any distill-specific animations
+.distill {
+  .news {
+    opacity: 1 !important;
+  }
+}
